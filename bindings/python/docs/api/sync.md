@@ -1,6 +1,6 @@
-# API Reference
+# Synchronous API
 
-::: opendal
+::: opendal.Operator
     options:
       show_source: false
       heading_level: 2
